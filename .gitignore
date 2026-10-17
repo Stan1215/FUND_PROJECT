@@ -1,9 +1,5 @@
-data.pickle
 venv/
 __pycache__/
 data/
-dataset_images/
-*.jpg
 *.task
-*.csv
 *.p
